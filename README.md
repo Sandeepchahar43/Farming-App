@@ -1,5 +1,5 @@
 # 👨‍🌾 Agri India - One stop application for Indian Farmers
-
+sandeep chahar love this community
 ✒️ This is an Android Application designed for our Indian farmers. 
 
 ✒️ The technology has become a part and parcel of everyone's life and it is also helping us to make our daily tasks easy.
